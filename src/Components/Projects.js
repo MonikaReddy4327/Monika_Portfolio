@@ -19,8 +19,9 @@ function Projects() {
   ]
 
   return (
-
-    <Carousel>
+    <>
+      <b>Experience</b>
+      <Carousel>
 
       {projects.map((item,i)=>(
         <Paper key={i} style={{padding:"40px"}}>
@@ -37,7 +38,7 @@ function Projects() {
       ))}
 
     </Carousel>
-
+</>
   )
 }
 
