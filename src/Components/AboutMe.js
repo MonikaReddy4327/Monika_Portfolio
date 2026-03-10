@@ -1,13 +1,6 @@
-import React, { useState } from "react";
-import { Button, Typography, Box, Paper } from "@mui/material";
+import { Typography, Box, Paper } from "@mui/material";
 
 function AboutMe() {
-  const [downloading, setDownloading] = useState(false);
-
-  const handleDownload = () => {
-    setDownloading(true);
-    setTimeout(() => setDownloading(false), 1500);
-  };
 
   return (
     <Box
