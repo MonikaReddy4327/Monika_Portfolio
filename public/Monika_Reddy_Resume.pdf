@@ -1,0 +1,153 @@
+    MONIKA REDDY
+
+Senior Full Stack
+Engineer
+
+Monikareddyuideveloper@gmai.com | 602-753-7438
+
+PROFESSIONAL SUMMARY
+I am a Senior Full Stack Developer with over 10 years of experience building scalable enterprise web applications, with
+the last 6+ years focused on React, Node.js, and Java-based backend services. I have worked with organizations such as
+Lincoln Financial Group, Verizon, and Lowe’s, developing and maintaining large-scale applications used by thousands of
+enterprise users. I have strong experience designing modern React front-end architectures, building RESTful APIs with
+Node.js and Java, and integrating web platforms with mobile applications including iOS solutions built with Swift. My work
+often involves enabling seamless web and mobile front-end integrations through secure APIs and scalable microservices.
+CORE TECHNICAL SKILLS
+Frontend React.js (6+ yrs), TypeScript, JavaScript (ES6+), HTML5, CSS3, SASS, MUI (Material
+
+UI), Redux, Redux-Saga, Bootstrap, JSX, Mapbox GL JS, NodeJS
+
+Backend Node.js, Express.js, NestJS, REST APIs (API-first design), gRPC, GraphQL, Apollo,
+Microservices Architecture, PostgreSQL, MySQL, MongoDB, DynamoDB, Cassandra,
+Python
+
+Testing Jest, React Testing Library, Cypress, Playwright, Mocha, Jasmine, Karma — unit,
+
+integration &amp; E2E testing for complex applications
+
+CI/CD &amp; DevOps GitHub Actions, Jenkins, Docker, Kubernetes (EKS), Git/GitOps, Webpack, Babel,
+
+npm/yarn, Bamboo, Azure DevOps
+
+Security JWT, OAuth2, OWASP best practices, HTTPS/TLS, CSP, input validation, HIPAA
+
+compliance, CORS, FHIR APIs
+
+Cloud &amp; DB Azure (ASE, ARM, WebApp), AWS (EKS, S3, OpenShift), PostgreSQL, PostGIS,
+
+MongoDB, Snowflake, DynamoDB, Cassandra
+
+Tools &amp; Methods GitHub Copilot (AI-assisted dev), Jira, Postman, VS Code, Agile/Scrum, WCAG 2.2,
+
+MVC, SPA, SOA, SDLC
+PROFESSIONAL EXPERIENCE
+Full Stack Developer | Lincoln Financial Group | July 2022 – Present · Remote
+• Developed scalable web applications using React, TypeScript, and Material UI, building reusable UI components
+that improved development efficiency across web and mobile platforms.
+• Implemented complex UI features using React Hooks, Redux, and Redux Toolkit, enabling efficient state
+management for enterprise financial dashboards and mobile-connected services.
+• Designed and integrated RESTful APIs using Node.js and Express, enabling seamless communication between web
+applications and iOS mobile apps developed in Swift.
+• Collaborated with iOS development teams working with Swift, ensuring frontend APIs and data contracts supported
+mobile application requirements and performance.
+• Containerized services using Docker and deployed applications on Azure Kubernetes Service (AKS) and AWS EKS,
+supporting scalable backend services consumed by both web and mobile applications.
+• Optimized frontend performance using Chrome DevTools and Lighthouse, improving application responsiveness
+and mobile device compatibility.
+• Configured Webpack build pipelines to optimize asset bundling, code splitting, and production build performance.
+• Maintained high code quality using ESLint, Prettier, and Git-based workflows, improving collaboration across
+distributed engineering teams.
+• Utilized GitHub Copilot to accelerate development tasks including component scaffolding, TypeScript definitions, and
+automated test creation.
+• Developed automated tests using Jest, Playwright, and React Testing Library, ensuring application reliability across
+browsers and devices.
+
+• Implemented end-to-end testing with Playwright, covering authentication flows, form validations, and integration
+scenarios impacting web and mobile services.
+• Built Playwright automation frameworks using Python with Page Object Model (POM) to support automated
+regression testing in CI/CD pipelines.
+• Implemented WCAG accessibility standards including semantic HTML, ARIA attributes, keyboard navigation, and
+screen reader support.
+• Participated in system design discussions, focusing on scalable architectures, secure API integrations, and
+performance optimization for distributed applications.
+• Provided production support, monitoring logs, troubleshooting incidents, and resolving performance or integration
+issues impacting both web and mobile users.
+Tech Stack: React.js, TypeScript, Node.js, MUI, PostgreSQL, PostGIS, Mapbox GL JS, Docker, Kubernetes, Azure, AWS,
+REST APIs, GitHub Actions, CI/CD, GitHub Copilot, Jira, Python,IOS, Swift.
+Full Stack Developer | Verizon | September 2021 – July 2022 · Remote/Hybrid
+• Built full stack applications from scratch at Verizon using React on the frontend and Node.js with Express on the
+backend, handling large volumes of telecom data
+• Worked end-to-end as a feature developer — designed the React components, connected them to the APIs, and
+saw features through to deployment
+• Noticed the app was making way too many redundant API calls, so I refactored the Redux-Saga logic to handle it
+properly. Cut unnecessary calls by around 60%, which made both the frontend faster and reduced load on the
+backend
+• Used GraphQL with Apollo to fetch only the data each page actually needed, rather than pulling everything and
+filtering on the frontend. Made a noticeable difference in load times
+• Handled cloud deployments on Azure, used ARM templates to keep infrastructure consistent, and set up CI/CD
+pipelines so releases were automated and repeatable
+• Wrote unit and integration tests with Jest and ran regression testing before every release to make sure nothing was
+broken
+• Kept everything in Jira and made sure the Git history stayed clean through structured pull requests and regular code
+reviews with the team
+Tech Stack: React.js, Redux, Node.js, Express, gRPC, GraphQL, TypeScript, MUI, Azure, AWS, Docker, Jest, REST APIs,
+GitHub, Jira
+Senior UI / Frontend / React Developer | Lowe&#39;s | November 2019 – August 2021 · Hybrid
+• Built single-page applications for Lowe’s retail platform using React and Redux. These apps handled a lot of traffic,
+so performance and reliability were always a priority
+• Connected the React frontend to Node.js backend services that read from PostgreSQL. Set up authentication using
+Passport.js and JWT so user sessions were handled securely
+• Spent time tuning the Webpack build setup — got the bundle sizes down significantly which made pages load faster,
+especially on slower connections
+• Made sure all the customer-facing components met WCAG 2.2 accessibility standards and worked properly across
+different browsers
+• Wrote tests with Jest and Mocha for all the important application flows and followed test-driven development
+practices within the Agile team
+• Kept the codebase organized with a clean Git branching strategy and tracked all work and bugs in Jira
+Tech Stack: React.js, Redux, Node.js, PostgreSQL, TypeScript, HTML5, CSS3, MUI, Bootstrap, Jest, Webpack, REST APIs,
+GitHub, Jira
+UI / Frontend / React Developer | CareMore Health Inc. | February 2018 – October 2019
+• Built healthcare UIs at CareMore that handled sensitive patient data, making sure everything was HIPAA-compliant
+and properly secured through the REST APIs
+• Also worked with Angular on an SPA project here — built the frontend in Angular with TypeScript and the backend in
+Node.js, handled CORS configuration and used Nginx for load balancing
+• Wrote Angular unit tests with Karma and Jasmine, and tested the Node.js endpoints with Chai. Managed scaling on
+AWS OpenShift to keep things stable in production
+Tech Stack: React.js, Angular.js, Node.js, Redux, PostgreSQL, MongoDB, AWS, REST APIs, HTML5, CSS3, SASS, GitHub
+Frontend / UI Developer | OneTrust | February 2015 – August 2017
+
+• Built the full frontend for enterprise web applications using HTML, CSS, JavaScript, and Angular.js, connected to
+Oracle DB through REST APIs
+• Built interactive UI features like drag-and-drop and dynamic content updates using jQuery and AJAX,
+communicating with backend REST APIs
+Tech Stack: HTML5, CSS3, JavaScript, Angular.js, jQuery, AJAX, JSON, Oracle DB, SVN
+EDUCATION
+Master of Science in Computer Technology | Eastern Illinois University, USA
+Bachelor of Engineering in Electrical &amp; Electronics | JNTUH, Telangana, India
+KEY DIFFERENTIATORS FOR THIS ROLE
+React &amp; MUI Depth I have spent 6+ years building real production React apps at Fortune 500
+companies — not side projects, actual apps with thousands of daily users
+Node.js Expertise I don’t just write frontend code — I design and build the Node.js APIs too, and see
+
+them through from design to deployment
+
+Testing for Complex Apps I take testing seriously — unit tests, integration tests, and end-to-end tests are
+
+part of my normal workflow, not an afterthought
+
+CI/CD &amp; Version Control Every role I have had used CI/CD pipelines and structured Git workflows — I am
+used to working in teams where code quality and deployment discipline matter
+Web &amp; Mobile Security Security is something I think about at every layer — from how APIs are
+authenticated to how the UI handles user input to how infrastructure is configured
+HTML5 &amp; JS Ecosystem Strong fundamentals in HTML, CSS, and JavaScript built over 8+ years of
+focused web development — I know when to use a framework and when plain JS
+does the job better
+
+AI-Native Development I use GitHub Copilot as part of my daily workflow and it genuinely speeds things
+
+up, especially for repetitive scaffolding and test writing
+
+KEYWORDS
+React.js · Node.js · TypeScript · MUI · Material UI · HTML5 · JavaScript · Full Stack Developer · ReactJS · REST API · GraphQL ·
+Redux · Microservices · Jest · Playwright · Cypress · CI/CD · GitHub Actions · Docker · Kubernetes · OWASP · Web Security · JWT ·
+OAuth2 · PostgreSQL · AWS · Azure · Agile · Scrum · Jira · Git · Large-scale Web Applications · Feature Developer · JavaScript
