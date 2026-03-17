@@ -1,66 +1,27 @@
-import { Typography, Box, Paper } from "@mui/material";
+import React from "react";
+import { Box, Paper, Typography } from "@mui/material";
+import SectionTitle from "./SectionTitle";
 
-function AboutMe() {
-
+const AboutMe = () => {
   return (
-    <Box
-      sx={{
-        display: "flex",
-        justifyContent: "center",
-        px: 2,
-        py: 6,
-        backgroundColor: "#f8fafc",
-      }}
-    >
+    <Box sx={{ py: 8 }}>
+      <SectionTitle
+        title="About Me"
+        subtitle="A clean and professional introduction section for recruiters."
+      />
       <Paper
-        elevation={4}
-        sx={{
-          maxWidth: 900,
-          width: "100%",
-          p: { xs: 3, md: 5 },
-          borderRadius: 4,
-        }}
+        elevation={0}
+        sx={{ p: 4, borderRadius: 5, border: "1px solid", borderColor: "divider" }}
       >
-        <Typography
-          variant="h4"
-          sx={{
-            fontWeight: 200,
-            color: "#1e293b",
-            mb: 1,
-          }}
-        >
-          About Me
-        </Typography>
-              <Typography variant="h5" sx={{ fontWeight: 200 }}>
-  Monika Reddy
-</Typography>
-        <Typography variant="h7" sx={{ color: "#2563eb", mb: 2 }}>
-  Senior Full Stack Developer | React | Angular | Java
-</Typography>
-
-
-        <Typography
-          variant="body1"
-          sx={{
-            color: "#475569",
-            lineHeight: 1.9,
-            fontSize: "1.05rem",
-            mb: 4,
-            margin:"30px"
-          }}
-        >
-          I am a Senior Full Stack Developer with experience designing and
-          building scalable enterprise applications using React, Angular, Java,
-          and Node.js. I have contributed to large-scale projects at Lincoln
-          Financial Group, Verizon, and Lowe’s, where I developed modern web
-          applications, integrated backend APIs, and improved system
-          performance. I am passionate about creating clean, responsive user
-          interfaces and building reliable backend services that deliver strong
-          user experiences.
+        <Typography variant="body1" sx={{ lineHeight: 1.9 }}>
+          I am a frontend developer with experience building modern web applications
+          using React.js, Redux Toolkit, JavaScript, HTML, CSS, and Material UI and NodeJS.For testing I have used Jest and Enzyme wit React Testing Libarary and playwright
+          I enjoy creating reusable UI components, managing application state, and
+          building responsive interfaces that are scalable and user-friendly.
         </Typography>
       </Paper>
     </Box>
   );
-}
+};
 
 export default AboutMe;
