@@ -20,7 +20,7 @@ import {
 } from "@mui/icons-material";
 import { toggleTheme } from "../feature/portfolioSlice";
 
-const GeneralInfo = () => {
+const Hero = () => {
   const dispatch = useDispatch();
   const darkMode = useSelector((state) => state.portfolio.darkMode);
 
@@ -97,4 +97,4 @@ const GeneralInfo = () => {
   );
 };
 
-export default GeneralInfo;
+export default Hero;
