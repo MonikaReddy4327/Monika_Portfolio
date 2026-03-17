@@ -2,14 +2,14 @@ import React from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import { CssBaseline, AppBar, Toolbar, Typography, Button, Stack, Container, Divider } from "@mui/material";
 import { getTheme } from "./theme/theme";
-// import Hero from "./components/Hero";
-// import AboutMe from "./components/AboutMe";
-// import Skills from "./components/Skills";
-// import Experience from "./components/Experience";
-// import Projects from "./components/Projects";
-// import SkillBars from "./components/SkillBars";
-// import Contacts from "./components/Contacts";
-// import SectionTitle from "./components/SectionTitle";
+import Hero from "./components/Hero";
+import AboutMe from "./components/AboutMe";
+import Skills from "./components/Skills";
+import Experience from "./components/Experience";
+import Projects from "./components/Projects";
+import SkillBars from "./components/SkillBars";
+import Contacts from "./components/Contacts";
+import SectionTitle from "./components/SectionTitle";
 import { useSelector } from "react-redux";
 
 const App = () => {
@@ -45,8 +45,8 @@ const App = () => {
       </AppBar>
 
       <Container maxWidth="lg">
-        {/* <Hero /> */}
-        {/* <Divider />
+        <Hero />
+        <Divider />
         <AboutMe />
         <Divider />
         <Skills />
@@ -58,7 +58,7 @@ const App = () => {
         <SkillBars />
         <Divider />
         <SectionTitle/>
-        <Contacts /> */}
+        <Contacts />
       </Container>
     </ThemeProvider>
   );
