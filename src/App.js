@@ -2,7 +2,7 @@ import React from "react";
 import { ThemeProvider } from "@mui/material/styles";
 import { CssBaseline, AppBar, Toolbar, Typography, Button, Stack, Container, Divider } from "@mui/material";
 import { getTheme } from "./theme/theme";
-import Hero from "./components/Hero";
+// import Hero from "./components/Hero";
 import AboutMe from "./components/AboutMe";
 import Skills from "./components/Skills";
 import Experience from "./components/Experience";
@@ -45,7 +45,7 @@ const App = () => {
       </AppBar>
 
       <Container maxWidth="lg">
-        <Hero />
+        {/* <Hero /> */}
         <Divider />
         <AboutMe />
         <Divider />
